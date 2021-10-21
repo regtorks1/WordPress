@@ -1,0 +1,44 @@
+
+
+.first_header{
+    text-align: center;
+    background-color: grey;
+    color: white;
+    padding: 50px;
+    width: 100%;
+    position: relative;
+    top: -100px;
+    z-index: -100;
+}
+
+
+
+.side_bar{
+    float: left;
+    background-color: lightblue;
+    color: white;
+    height: 500px;
+    position: relative;
+    top: -180px
+}
+
+.index{
+    text-align: center;
+    position:relative;
+    top: 130px;
+    left: 55px;
+    
+}
+
+.footer{
+    text-align: center;
+    position: relative;
+    top: 320px;
+    left: -25px;
+    background-color: black;
+    color: white;
+    padding: 40px;
+    padding-right: 50px;
+    margin-left: 25px;
+    width: 100%;
+}

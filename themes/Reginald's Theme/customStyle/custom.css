@@ -1,0 +1,43 @@
+
+
+.first_header{
+    text-align: center;
+    background-color: grey;
+    color: white;
+    padding: 50px;
+    width: 100%;
+    position: relative;
+    top: -100px;
+    z-index: -100;
+}
+
+.side_bar{
+    background-color: orchid;
+    height: 500px;
+    position: relative;
+    top: -123px;
+    width: 200px;
+}
+
+
+.index{
+    text-align: center;
+    position:relative;
+    top: 180px;
+    left: 55px;
+    
+}
+
+.footer{
+    text-align: center;
+    position: relative;
+    top: 350px;
+    left: -25px;
+    background-color: black;
+    color: white;
+    padding: 40px;
+    padding-right: 50px;
+    margin-left: 25px;
+    width: 1250px;
+}
+
